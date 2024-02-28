@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.exe
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.deps.json
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.runtimeconfig.json
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.dll
+C:\Users\Korisnik\source\repos\vezba1\vezba1\bin\Debug\netcoreapp3.1\vezba1.pdb
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.dll
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.pdb
+C:\Users\Korisnik\source\repos\vezba1\vezba1\obj\Debug\netcoreapp3.1\vezba1.genruntimeconfig.cache
